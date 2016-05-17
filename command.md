@@ -12,4 +12,4 @@
 1. more/less
 1. find
 1. which
-1. man
+1. ma n
